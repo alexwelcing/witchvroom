@@ -5,12 +5,12 @@ import { PropsWithChildren } from 'react';
 import 'styles/main.css';
 
 const meta = {
-  title: 'Next.js Subscription Starter',
-  description: 'Brought to you by Vercel, Stripe, and Supabase.',
+  title: 'Witch v Room',
+  description: 'An Alex Welcing SaaS with Vercel, Stripe, and Supabase.',
   cardImage: '/og.png',
   robots: 'follow, index',
   favicon: '/favicon.ico',
-  url: 'https://subscription-starter.vercel.app',
+  url: 'https://witchvroom.vercel.app',
   type: 'website'
 };
 
